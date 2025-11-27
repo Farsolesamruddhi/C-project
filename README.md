@@ -11,9 +11,15 @@ The program takes user inputs such as movie name, duration, category, and seatin
 It also handles different invalid input scenarios and returns proper error codes.
 
  Features:- 
+ 
  Get movie details from user
+ 
  Validate movie category (2D/3D)
+ 
  Validate circle type (gold/silver)
+ 
  Calculate ticket price
+ 
  Return error codes for invalid inputs
+ 
  Display proper messages to the user
